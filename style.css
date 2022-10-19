@@ -1,12 +1,10 @@
 body {
-    background-color: #dfcbb3;
+    background-color: #e6d7c6;
     color: #444444;
     font-family: "Open Sans", Arial;
     font-size: 17px;
     padding: 15px;
-    margin: 0;
-    background-image: url(img/pngtree-concrete-wall-scratched-material-gray-texture-background-image_780107.jpg);
-    
+    margin: 0;    
   }
   
   .container {
